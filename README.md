@@ -9,4 +9,4 @@
 - Restful API 接口
 
 **前端项目位于front-end分支**
-前端使用 Vue.js 框架及其生态，结合 Element UI 组件库开发页面，编写功能
+- 前端使用 Vue.js 框架及其生态，结合 Element UI 组件库开发页面，编写功能
